@@ -1,0 +1,1 @@
+print ([100*A+10*B+C for A in range(1,10) for B in range(0,10) for C in range(0,10) if A==C])
